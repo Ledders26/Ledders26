@@ -6,6 +6,8 @@ I'm currently working at Makers Academy, learning to become a Developer.  Once f
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ledders26&show_icons=true&theme=dark))](https://git.io/streak-stats)
 
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Ledders26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ledders26/Ledders26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
