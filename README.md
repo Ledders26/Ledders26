@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Ben
+
+I'm currently working at Makers Academy, learning to become a Developer.  Once finished I will go back to John Lewis and embark on a new career as a developer.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ledders26)](https://git.io/streak-stats)
 
 <!--
 **Ledders26/Ledders26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
