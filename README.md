@@ -3,6 +3,7 @@
 I'm currently working at Makers Academy, learning to become a Developer.  Once finished I will go back to John Lewis and embark on a new career as a developer.
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledders26)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ledders26)](https://git.io/streak-stats)
 
 <!--
